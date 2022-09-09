@@ -24,11 +24,6 @@ Runs the app in the development mode.
 npm start
 ```
 
-Run the *development server* for React.
-```bash
-REACT_APP_API_URL= http://localhost:3000
-```
-
 To make a production build, simply run on *react-src* folder via the terminal.
 ```bash
 npm run build
