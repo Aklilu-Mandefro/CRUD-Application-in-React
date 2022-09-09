@@ -37,3 +37,6 @@ npm run build
 - [x] Delete
 - [x] React router
 - [x] Front-end validation (HTML)
+
+### Follow me on my Blog: <br>
+https://volunteer-tech.com/Aklilu
