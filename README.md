@@ -6,7 +6,7 @@ A simple crud application using reactjs. It's use react router, react notificati
 
 Fork, then download or clone the repo.
 ```bash
-git clone https://github.com/<your-user-name>/react-crud.git
+git clone https://github.com/<your-user-name>/CRUD-Application-in-React.git
 ```
 
 Change the directory.
